@@ -12,3 +12,4 @@ This is the DBMS Project for HCU 2k17 batch
 |Blog Structure, Integration|[Mridula Garg](https://github.com/MridulaGarg)|https://github.com/MridulaGarg/DB_Project|
 |Read Time, Integration|[Vikas Garg](https://github.com/vikasgargvi)|https://github.com/vikasgargvi/ReadingTextTime|
 |Wireframing, UI|[Smita Pingua](https://github.com/smitapingua)|https://github.com/smitapingua/DBMS-Frontend|
+|Ranking Post|[Gaurav](https://github.com/gaurav476)|https://github.com/gaurav476/Blog_Website|
